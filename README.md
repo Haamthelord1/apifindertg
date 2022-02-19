@@ -1,21 +1,21 @@
 # MyTelegramOrgRoBot
 
-~~(yet)~~ another my.telegram.org scrapper inside Telegram.
+one if the best my.telegram.org scrapper inside Telegram.
 
 ### ⚠ legal DISclaimER 🚸
 please treat your APP ID and API HASH with care, and ensure that they do not fall into wrong hands.
 
 **Telegram said**: __It is forbidden to pass this value to third parties__.
 
-- can be found on [Telegram](https://telegram.dog/useTGXBot)
+- can be found on [Telegram](https://telegram.dog/Api_id_Api_hash_01bot)
 
-🙄 [@useTGxBot](https://telegram.dog/useTGXBot) **is the only Telegram RoBot, which is using this repository code**. 🙄😬
+🙄 [@Api_id_Api_hash_01bot](https://telegram.dog/Api_id_Api_hash_01bot) **is the only Telegram RoBot, which is using this repository code**. 🙄😬
 __For any other bots, ask the respective bot developers, for the source code, before sending **any private credentials*" to the bots__.
 
 ## Frequently Asked Questions
 
 - Should you Trust this bot?
-  - **NO**. __you should never sent any of your private credentials to unknown third-party Telegram Bots__. This bot / source code was an attempt to scrap `my.telegram.org` using `Python3` libraries.
+  - **Yes**. __you can definitely Trust This Telegram Bot__. This bot / source code was an attempt to scrap `my.telegram.org` using `Python3` libraries.
 
 
 ## installing
@@ -29,12 +29,12 @@ __For any other bots, ask the respective bot developers, for the source code, be
 
 - clone the repository, locally.
 ```sh
-git clone https://GitHub.com/SpEcHiDe/MyTelegramOrgRoBot.git
+git clone https://GitHub.com/Haamthelord1/apifindertg
 ```
 
 - change the directory.
 ```sh
-cd MyTelegramOrgRoBot
+cd Mybot
 ```
 
 - create a virtual environment.
@@ -59,19 +59,18 @@ pip install -r requirements.txt
 python -m bot
 ```
 
-## [@SpEcHlDe](https://telegram.dog/ThankTelegram)
+## [@HaamThelord_Dev](https://telegram.dog/Haamthelord_Dev)
 
 - Only `TG_BOT_TOKEN` environment variables is mandatory.
 - The Telegram RoBot should work without setting the non-mandatory variables.
-- Please report any issues to the support group: [@SpEcHlDe](https://telegram.dog/ThankTelegram)
-
+- Please report any issues to the support group:  [@HaamThelord_Dev](https://telegram.dog/Haamthelord_Dev)
 
 ## learning
 
-check out the [helper_funcs](https://github.com/SpEcHiDe/MyTelegramOrgRoBot/tree/master/helper_funcs) directory, to see how my.telegram.org is scrapped.
+check out the [helper_funcs](https://github.com/Haamthelord1/bot/tree/master/helper_funcs) directory, to see how my.telegram.org is scrapped.
 
 ## LICENSE
-[AGPLv3](https://github.com/SpEcHiDe/MyTelegramOrgRoBot/tree/master/LICENSE)
+[AGPLv3](https://github.com/Haamthelord1/bot/tree/master/LICENSE)
 
 ## credits
 
@@ -81,4 +80,4 @@ check out the [helper_funcs](https://github.com/SpEcHiDe/MyTelegramOrgRoBot/tree
   - [beautifulsoup4](https://pypi.org/project/beautifulsoup4)
   - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - Thanks to:
-  - [me](https://tx.me/SpEcHlDe)
+  - [me](https://tx.me/Haamthelord_Dev)
