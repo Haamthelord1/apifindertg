@@ -1,6 +1,6 @@
-# MyTelegramOrgRoBot
+# Bot
 
-one if the best my.telegram.org scrapper inside Telegram.
+One Of the best my.telegram.org scrapper inside Telegram.
 
 ### ⚠ legal DISclaimER 🚸
 please treat your APP ID and API HASH with care, and ensure that they do not fall into wrong hands.
